@@ -1,0 +1,16 @@
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Service.dll.config
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Service.dll
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Service.pdb
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\EntityFramework.dll
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\EntityFramework.xml
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.AssemblyReference.cache
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CoreCompileInputs.cache
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CopyComplete
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\ElevenNote.Service.dll
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\ElevenNote.Service.pdb
