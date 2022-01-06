@@ -29,5 +29,6 @@ namespace ElevenNote.Data
         {
             return new ApplicationDbContext();
         }
+        public DbSet<Note> Notes { get; set; }
     }
 }

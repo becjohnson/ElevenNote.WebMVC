@@ -1,4 +1,5 @@
 ﻿using ElevenNote.Models.Note;
+using ElevenNote.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,8 +17,39 @@ namespace ElevenNote.Service
         }
         public bool CreateNote(NoteCreate model)
         {
-            var entity = 
-                new Note
+            var entity =
+                new Note()
+                {
+                    OwnerId = _userId,
+                    Title = model.Title,
+                    Content = model.Content,
+                    CreatedUtc = DateTimeOffset.Now,
+                };
+            using (var ctx = new ApplicationDbContext())
+            {
+                ctx.Notes.Add(entity);
+                return ctx.SaveChanges() == 1;
+            }
+        }
+        public IEnumerable<NoteListItem> GetNotes()
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var query =
+                    ctx
+                    .Notes
+                    .Where(e => e.OwnerId == _userId)
+                    .Select(
+                        e =>
+                        new NoteListItem
+                        {
+                            NoteId = e.NoteId,
+                            Title = e.Title,
+                            CreatedUtc = e.CreatedUtc,
+                        }
+                    );
+                return query.ToArray();
+            }
         }
     }
 }
