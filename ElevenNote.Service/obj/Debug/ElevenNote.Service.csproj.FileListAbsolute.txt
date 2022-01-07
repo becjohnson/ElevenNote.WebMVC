@@ -14,3 +14,9 @@ C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\Eleve
 C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CopyComplete
 C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\ElevenNote.Service.dll
 C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\obj\Debug\ElevenNote.Service.pdb
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Data.dll
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Models.dll
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Data.pdb
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Models.pdb
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Service\bin\Debug\ElevenNote.Models.dll.config

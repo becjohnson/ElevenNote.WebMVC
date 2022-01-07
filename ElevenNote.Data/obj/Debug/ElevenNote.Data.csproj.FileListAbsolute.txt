@@ -14,5 +14,5 @@ C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNo
 C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
-C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.CreateDB.resources
+C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.Create.resources
 C:\Users\beaut\source\repos\ElevenNote.WebMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
